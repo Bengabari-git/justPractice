@@ -113,16 +113,17 @@ h1{
 }
 .meb>button{
     height: 1.2cm;
-    width: 2.6cm;
+    padding: 10px;
     outline: none;
     border-radius: 2lvh;
     border: 2px solid chartreuse;
-    font-size: 53px;
+    font-size: 18px;
+    font-family: Bahnschrift;
     background-color: black;
     color: rgb(0, 243, 32);
     font-weight: bolder;
     text-shadow: 3px 4px  rgb(15, 143, 22);
-    margin-bottom: 9px;
+    margin-bottom: 8px;
     cursor: pointer;
 }
 .meb>button:hover{
